@@ -1,0 +1,1 @@
+checking scope rights
